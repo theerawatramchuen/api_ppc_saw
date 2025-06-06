@@ -1,4 +1,4 @@
-# api_ppc_saw
+# API PPC Wafer Saw Machine Parameter Anomaly Detection
 ## Installation
 `D:\api_ppc_saw> python -m venv env` 
 
