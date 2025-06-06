@@ -1,6 +1,6 @@
 # api_ppc_saw
 ## Installation
-`python -m venv env` 
+`D:\api_ppc_saw> python -m venv env` 
 
 `D:\api_ppc_saw> env\scripts\activate`
 
